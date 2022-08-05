@@ -6,5 +6,6 @@
 Projeto
 
 - Variáveis, operadores e funções
-
+- Estrutura de repetição
+- Estrutura de decisão
 ***********************************************
