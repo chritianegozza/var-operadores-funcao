@@ -9,3 +9,6 @@ Projeto
 - Estrutura de repetição
 - Estrutura de decisão
 ***********************************************
+Linguagem
+
+- Javascript
